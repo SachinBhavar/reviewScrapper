@@ -1,1 +1,1 @@
-# reviewScrapper
+# reviewScrapper web scrapper project
